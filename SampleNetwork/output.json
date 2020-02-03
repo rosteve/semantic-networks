@@ -1,0 +1,1 @@
+{"meta": {}, "nodes": [{"id": 0, "data": {"label": "A"}}, {"id": 1, "data": {"label": "B"}}, {"id": 2, "data": {"label": "C"}}], "edges": [{"id": 0, "src": 0, "dst": 1, "data": {"type": "belongs"}}, {"id": 1, "src": 1, "dst": 2, "data": {"type": "owns"}}, {"id": 2, "src": 2, "dst": 0, "data": {"type": "has"}}], "timeline": []}
